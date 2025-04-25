@@ -1,0 +1,27 @@
+﻿<Window x:Class="Programowanie_Projekt.Score"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Programowanie_Projekt"
+        mc:Ignorable="d"
+        Title="Score" Height="400" Width="800" Background="Black">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"  Content="Gratulacje To Twój Wynik:" Foreground="DeepPink" FontSize="40" HorizontalAlignment="Center"></Label>
+        <TextBox  Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Name="txtScore" Background="Black" IsReadOnly="True" HorizontalAlignment="Center" Foreground="DeepPink" VerticalAlignment="Center" FontSize="100"></TextBox>
+        <Label Grid.Row="2" Grid.Column="0" Content="Wpisz Imię:" Foreground="DeepPink" FontSize="20"></Label>
+        <TextBox Grid.Row="3" Grid.Column="0" Name="txtName" Background="DeepPink" Foreground="Black" FontSize="20" ></TextBox>
+        <Button Grid.Row="3" Grid.Column="1" Name="btnOK" Content="Kontynuuj" Click="btnOK_Click" Style="{DynamicResource ButtonStyle1}" ></Button>
+
+    </Grid>
+</Window>

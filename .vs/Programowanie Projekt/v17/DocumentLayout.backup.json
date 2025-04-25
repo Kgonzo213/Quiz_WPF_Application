@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\update.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:update.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\model\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:model\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\update.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:update.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\delete.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:delete.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\delete.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:delete.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\create.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:create.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\create.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:create.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\repo\\askrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:repo\\askrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\score.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:score.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\numberofquestions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:numberofquestions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\quiz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:quiz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\model\\ask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:model\\ask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\model\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:model\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\repo\\iaskrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:repo\\iaskrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\quiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:quiz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\score.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:score.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\numberofquestions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:numberofquestions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|c:\\users\\kgonz\\source\\repos\\programowanie projekt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C42B6B08-2346-4E67-A721-0BE3BD2D4774}|Programowanie Projekt.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kgonz\\AppData\\Local\\Temp\\.vsdbgsrc\\2be6f58c7d199001219eee0ed4f8c60905fd331037c8600ebb281cdc5b6d96fa\\DependencyObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 187,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Model\\Utility.cs",
+              "RelativeDocumentMoniker": "Model\\Utility.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Model\\Utility.cs",
+              "RelativeToolTip": "Model\\Utility.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:04:03.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Score.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Score.xaml.cs",
+              "RelativeDocumentMoniker": "Score.xaml.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Score.xaml.cs",
+              "RelativeToolTip": "Score.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:59:57.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Score.xaml",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Score.xaml",
+              "RelativeDocumentMoniker": "Score.xaml",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Score.xaml",
+              "RelativeToolTip": "Score.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-23T16:45:53.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Quiz.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Quiz.xaml.cs",
+              "RelativeDocumentMoniker": "Quiz.xaml.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Quiz.xaml.cs",
+              "RelativeToolTip": "Quiz.xaml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:38:05.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Model\\Answer.cs",
+              "RelativeDocumentMoniker": "Model\\Answer.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Model\\Answer.cs",
+              "RelativeToolTip": "Model\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:28:13.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NumberOfQuestions.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\NumberOfQuestions.xaml.cs",
+              "RelativeDocumentMoniker": "NumberOfQuestions.xaml.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\NumberOfQuestions.xaml.cs",
+              "RelativeToolTip": "NumberOfQuestions.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwCsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:17:18.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NumberOfQuestions.xaml",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\NumberOfQuestions.xaml",
+              "RelativeDocumentMoniker": "NumberOfQuestions.xaml",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\NumberOfQuestions.xaml",
+              "RelativeToolTip": "NumberOfQuestions.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-23T14:07:03.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AskRepos.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Repo\\AskRepos.cs",
+              "RelativeDocumentMoniker": "Repo\\AskRepos.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Repo\\AskRepos.cs",
+              "RelativeToolTip": "Repo\\AskRepos.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIAwwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:45:07.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAskRepos.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Repo\\IAskRepos.cs",
+              "RelativeDocumentMoniker": "Repo\\IAskRepos.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Repo\\IAskRepos.cs",
+              "RelativeToolTip": "Repo\\IAskRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:43:54.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ask.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Model\\Ask.cs",
+              "RelativeDocumentMoniker": "Model\\Ask.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Model\\Ask.cs",
+              "RelativeToolTip": "Model\\Ask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:41:09.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DependencyObject.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\AppData\\Local\\Temp\\.vsdbgsrc\\2be6f58c7d199001219eee0ed4f8c60905fd331037c8600ebb281cdc5b6d96fa\\DependencyObject.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2be6f58c7d199001219eee0ed4f8c60905fd331037c8600ebb281cdc5b6d96fa\\DependencyObject.cs",
+              "ToolTip": "C:\\Users\\kgonz\\AppData\\Local\\Temp\\.vsdbgsrc\\2be6f58c7d199001219eee0ed4f8c60905fd331037c8600ebb281cdc5b6d96fa\\DependencyObject.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2be6f58c7d199001219eee0ed4f8c60905fd331037c8600ebb281cdc5b6d96fa\\DependencyObject.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:18:05.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.xaml",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Delete.xaml",
+              "RelativeDocumentMoniker": "Delete.xaml",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Delete.xaml",
+              "RelativeToolTip": "Delete.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T09:44:40.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Quiz.xaml",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Quiz.xaml",
+              "RelativeDocumentMoniker": "Quiz.xaml",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Quiz.xaml",
+              "RelativeToolTip": "Quiz.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T08:24:42.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.xaml",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Update.xaml",
+              "RelativeDocumentMoniker": "Update.xaml",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Update.xaml",
+              "RelativeToolTip": "Update.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T09:45:49.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Create.xaml.cs",
+              "RelativeDocumentMoniker": "Create.xaml.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Create.xaml.cs",
+              "RelativeToolTip": "Create.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:48:29.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Update.xaml.cs",
+              "RelativeDocumentMoniker": "Update.xaml.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Update.xaml.cs",
+              "RelativeToolTip": "Update.xaml.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:47:44.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Delete.xaml.cs",
+              "RelativeDocumentMoniker": "Delete.xaml.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Delete.xaml.cs",
+              "RelativeToolTip": "Delete.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:47:34.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.xaml",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Create.xaml",
+              "RelativeDocumentMoniker": "Create.xaml",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\Create.xaml",
+              "RelativeToolTip": "Create.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T09:42:04.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T08:08:39.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T07:31:03.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kgonz\\source\\repos\\Programowanie Projekt\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:30:53.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿<Window x:Class="Programowanie_Projekt.Delete"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Programowanie_Projekt"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Delete">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="9*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <!--Row0-->
+        <Label Content="Wybierz:" Grid.Row="0" Grid.Column="0" FontWeight="Black"/>
+        <Label Content="Nazwa:" Grid.Row="0" Grid.Column="2" FontWeight="Black"/>
+        <Label Content="Państwo:" Grid.Row="0" Grid.Column="3" FontWeight="Black"/>
+        <!--Row1-->
+        <TextBox Name="txtName" Grid.Row="1" Grid.Column="2" />
+        <TextBox Name="txtCountry" Grid.Row="1" Grid.Column="3" />
+        <!--Row2-->
+        <Image Name="imgFlag" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"/>
+        <TextBox Name="txtDescription" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2"  />
+        <!--Row3-->
+        <Button Style="{DynamicResource ButtonStyle1}" Name="btnUpload" Content="Wczytaj zdjęcie" Grid.Row="3" Grid.Column="0" Margin="2" />
+        <Button Style="{DynamicResource ButtonStyle1}" Name="btnSave" Content="Zapisz" Grid.Row="3" Grid.Column="2" Margin="2" />
+        <Button Style="{DynamicResource ButtonStyle1}" Name="btnClose" Content="Zamknij" Grid.Row="3" Grid.Column="3" Margin="2" Click="btnClose_Click"/>
+
+    </Grid>
+</Window>
